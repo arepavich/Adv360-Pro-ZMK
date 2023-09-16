@@ -79,11 +79,11 @@
 
         layer_Gaming {
             bindings = <
- &kp TILDE          &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4                &none                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-   &kp TAB          &trans         &kp Q         &kp W         &kp E         &kp R               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-   &kp ESC          &trans         &kp A         &kp S         &kp D         &kp F               &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &kp LEFT_SHIFT         &kp Z         &kp X         &kp C         &kp V                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans       &kp LCTRL      &kp LALT        &trans        &trans                          &kp SPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans   &to 0
+ &kp TILDE          &trans  &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4                &none                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+   &kp TAB          &trans         &kp X      &kp COMMA         &kp D         &kp O               &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+   &kp ESC          &trans         &kp A  &kp SEMICOLON         &kp H         &kp Y               &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &kp LEFT_SHIFT     &kp SLASH          &kp B         &kp I    &kp PERIOD                               &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans       &kp LCTRL      &kp LALT         &trans        &trans                          &kp SPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans   &to 0
             >;
         };
 
